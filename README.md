@@ -4,4 +4,4 @@ Projekt związany jest z dobraniem oraz sprawdzeniem modelu ARMA, który opisuje
 Wyniki projektu przedstawione są w [raporcie](https://ajanczewska.github.io/arma-model-analysis/raport.pdf).
 Zawiera on szczegółowe informacje dotyczące danych, wyniki, wnioski oraz część teoretyczną związaną z modelami ARMA.
 
-Obliczenia, wykresy, wyniki oraz część praktyczna projektu zostały wykonanane w języku Python w środowisku Jupyter i również są zawarte w raporcie.
+Obliczenia, wykresy, wyniki oraz część praktyczna projektu zostały wykonane w języku Python w środowisku Jupyter i również są zawarte w raporcie.
